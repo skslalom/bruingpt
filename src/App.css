@@ -1,0 +1,4 @@
+/* Position of cognito login/signup */
+[data-amplify-authenticator] [data-amplify-container] {
+  margin-top: 150px;
+}
